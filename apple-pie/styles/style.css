@@ -1,27 +1,19 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
 body {
-        font-family: 'Roboto', sans-serif;      
+        font-family: 'Roboto', sans-serif;
         font-weight: bold;
-        
 }
 
-
-
 header {
-        background-image: url('../images/apple-pie.jpg');   
-        background-size: cover; 
+        background-image: url('../images/apple-pie.jpg');
+        background-size: cover;
         background-repeat: no-repeat;
-        height: 80vh;        
+        height: 80vh;
         color: white;
         font-size: 60px;
-
         display: flex;
         align-items: center;
         justify-content: center;
-
-        
-        
-        
 }
 
 body h1 {
