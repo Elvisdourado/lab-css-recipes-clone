@@ -2,12 +2,13 @@
 body {
         font-family: 'Roboto', sans-serif;
         font-weight: bold;
+        margin: 0%;
 }
 
 header {
         background-image: url('../images/apple-pie.jpg');
-        background-size: cover;
         background-repeat: no-repeat;
+        background-size: cover;
         height: 80vh;
         color: white;
         font-size: 60px;
@@ -32,6 +33,7 @@ body img {
 
 body hr {
         margin: 30px 240px 0 210px;
+        border-top: solid 2px #989898;
 }
 
 p {
